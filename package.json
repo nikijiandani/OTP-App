@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikijiandani/OTP-App/issues"
   },
-  "homepage": "https://github.com/nikijiandani/OTP-App#readme"
+  "homepage": "https://github.com/nikijiandani/OTP-App#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
