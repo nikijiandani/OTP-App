@@ -1,0 +1,19 @@
+{
+  "name": "speedbox",
+  "version": "1.0.0",
+  "description": "Speedbox Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikijiandani/OTP-App.git"
+  },
+  "author": "Nikita Jiandani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikijiandani/OTP-App/issues"
+  },
+  "homepage": "https://github.com/nikijiandani/OTP-App#readme"
+}
